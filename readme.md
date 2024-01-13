@@ -39,4 +39,4 @@ PARA EJECUTAR Y VER LOS LABORATORIOS USAR LA SIGUIENTE RUTA:
 
 https://github.com/azuresergiohs1978/SC-900_Seguridad_Cumplimiento_Legal/tree/main/Instructions/Labs
 
-RUTA ORIGINAL DE MICROSOFT IMPORTADA: [https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.es-es.git](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.ES-ES.git)https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.ES-ES.git
+RUTA ORIGINAL DE MICROSOFT IMPORTADA: https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.ES-ES.git
